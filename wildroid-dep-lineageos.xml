@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- HALs -->
-  <project path="external/mesa" name="android_external_mesa" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="external/tinyhal" name="android_external_tinyhal" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="hardware/intel/sensors-iio" name="android_hardware_intel_sensors-iio" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
 
