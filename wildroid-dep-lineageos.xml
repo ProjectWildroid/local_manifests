@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- HALs -->
+  <project path="external/mesa" name="android_external_mesa" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="external/tinyhal" name="android_external_tinyhal" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="hardware/intel/sensors-iio" name="android_hardware_intel_sensors-iio" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+
+  <!-- Mainline repositories -->
+  <project path="external/linux-firmware-mainline" name="android_external_linux-firmware-mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="hardware/mainline" name="android_hardware_mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="device/mainline/common" name="android_device_mainline_common" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="device/mainline/qcom-common" name="android_device_mainline_qcom-common" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+</manifest>

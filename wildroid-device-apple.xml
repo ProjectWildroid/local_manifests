@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device -->
+  <project path="device/apple/snowcastle" name="android_device_apple_snowcastle" groups="wildroid,wildroid_device_apple" remote="Wildroid" />
+
+  <!-- Kernel -->
+  <project path="kernel/apple/snowcastle" name="android_kernel_apple_snowcastle" groups="wildroid,wildroid_device_apple,wildroid_kernel" remote="Wildroid" />
+</manifest>
