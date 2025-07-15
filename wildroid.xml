@@ -5,6 +5,8 @@
   <project path="prebuilts/mesa-build-dep" name="android_prebuilts_mesa-build-dep" groups="wildroid" remote="Wildroid" revision="wildroid_mesa-25.1" />
 
   <!-- Wildroid -->
-  <project path="wildroid/patches" name="wildroid_patches" groups="wildroid" remote="Wildroid" />
+  <project path="wildroid/patches" name="wildroid_patches" groups="wildroid" remote="Wildroid" >
+    <linkfile src=".wildroid-patches-not-yet-applied.txt" dest="wildroid-patches-not-yet-applied.txt" />
+  </project>
   <project path="vendor/wildroid" name="android_vendor_wildroid" groups="wildroid" remote="Wildroid" />
 </manifest>
