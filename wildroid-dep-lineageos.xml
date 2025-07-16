@@ -8,6 +8,9 @@
   <project path="hardware/intel/sensors-iio" name="android_hardware_intel_sensors-iio" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" groups="wildroid,wildroid_dep_lineageos,wildroid_dep_lineageos_default" remote="Wildroid-dep-LineageOS" />
 
+  <!-- Inline kernel build -->
+  <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" clone-depth="1" groups="wildroid,wildroid_dep_lineageos,wildroid_dep_lineageos_default" remote="Wildroid-dep-LineageOS" />
+
   <!-- Mainline repositories -->
   <project path="external/linux-firmware-mainline" name="android_external_linux-firmware-mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="hardware/mainline" name="android_hardware_mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />

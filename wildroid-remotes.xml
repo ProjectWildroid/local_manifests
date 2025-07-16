@@ -4,6 +4,10 @@
           fetch="https://github.com/ProjectWildroid"
           revision="main" />
 
+  <remote name="Wildroid-dep-AOSP"
+          fetch="https://android.googlesource.com"
+          revision="android16-release" />
+
   <remote name="Wildroid-dep-LineageOS"
           fetch="https://github.com/LineageOS"
           revision="lineage-22.2" />
