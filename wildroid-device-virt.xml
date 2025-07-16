@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/virt/virt-common" name="android_device_virt_virt-common" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" revision="lineage-23.0" />
+
+  <project path="device/virt/vboxware" name="android_device_virt_vboxware" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" />
+
+  <project path="device/virt/virtio-common" name="android_device_virt_virtio-common" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" />
+  <project path="device/virt/virtio_arm64" name="android_device_virt_virtio_arm64" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" />
+  <project path="device/virt/virtio_arm64only" name="android_device_virt_virtio_arm64only" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" />
+  <project path="device/virt/virtio_x86_64" name="android_device_virt_virtio_x86_64" groups="wildroid,wildroid_device_virt" remote="Wildroid-dep-LineageOS" revision="lineage-23.0" />
+
+  <project path="kernel/virt/virtio" name="android_kernel_virt_virtio" groups="wildroid,wildroid_device_virt,wildroid_kernel" remote="Wildroid-dep-LineageOS" />
+</manifest>
