@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Bootloader -->
+  <project path="external/lk2nd" name="android_external_lk2nd" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
+
   <!-- Common -->
   <project path="device/mainline/qcom-common" name="android_device_mainline_qcom-common" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
 
