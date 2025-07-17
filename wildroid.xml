@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- HALs -->
+  <project path="external/drm_hwcomposer-upstream" name="android_external_drm_hwcomposer-upstream" groups="wildroid" remote="Wildroid" />
+
   <!-- Mesa -->
   <project path="external/mesa" name="android_external_mesa" groups="wildroid" remote="Wildroid" revision="wildroid_mesa-25.1" />
   <project path="prebuilts/mesa-build-dep" name="android_prebuilts_mesa-build-dep" groups="wildroid" remote="Wildroid" revision="wildroid_mesa-25.1" />
