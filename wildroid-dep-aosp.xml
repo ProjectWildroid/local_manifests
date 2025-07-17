@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Inline kernel build -->
-  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" groups="wildroid,wildroid_dep_aosp,wildroid_dep_lineageos_default" remote="Wildroid-dep-AOSP" revision="main-kernel" />
+  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" groups="wildroid,wildroid_dep_aosp,wildroid_dep_lineageos_default,wildroid_dep_mikuui_default" remote="Wildroid-dep-AOSP" revision="main-kernel" />
 </manifest>
