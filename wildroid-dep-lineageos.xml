@@ -16,5 +16,4 @@
   <project path="hardware/mainline" name="android_hardware_mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="kernel/mainline/configs" name="android_kernel_mainline_configs" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="device/mainline/common" name="android_device_mainline_common" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
-  <project path="device/pc/basic_x86_64_pc" name="android_device_pc_basic_x86_64_pc" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
 </manifest>

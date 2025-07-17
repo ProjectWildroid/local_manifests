@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device -->
+  <project path="device/pc/basic_x86_64_pc" name="android_device_pc_basic_x86_64_pc" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="device/pc/generic_x86_64_pc" name="android_device_pc_generic_x86_64_pc" groups="wildroid,wildroid_device_pc" remote="Wildroid" />
+</manifest>
