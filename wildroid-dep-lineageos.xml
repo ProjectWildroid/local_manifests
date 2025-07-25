@@ -16,4 +16,7 @@
   <project path="hardware/mainline" name="android_hardware_mainline" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="kernel/mainline/configs" name="android_kernel_mainline_configs" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="device/mainline/common" name="android_device_mainline_common" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+
+  <!-- Misc -->
+  <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
 </manifest>
