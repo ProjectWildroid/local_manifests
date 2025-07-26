@@ -2,6 +2,11 @@
 <manifest>
   <!-- HALs -->
   <project path="external/drm_hwcomposer-upstream" name="android_external_drm_hwcomposer-upstream" groups="wildroid" remote="Wildroid" />
+  <project path="external/drmfb-composer" name="android_external_drmfb-composer" groups="wildroid" remote="Wildroid" />
+
+  <!-- HBM -->
+  <project path="external/ash" name="android_external_ash" groups="wildroid" remote="Wildroid" />
+  <project path="external/hbm" name="android_external_hbm" groups="wildroid" remote="Wildroid" />
 
   <!-- Mesa -->
   <project path="external/mesa" name="android_external_mesa" groups="wildroid" remote="Wildroid" revision="wildroid_mesa-25.1" />
