@@ -2,6 +2,7 @@
 <manifest>
   <!-- HALs -->
   <project path="external/drm_hwcomposer-upstream" name="android_external_drm_hwcomposer-upstream" groups="wildroid" remote="Wildroid" />
+  <project path="external/minigbm-wildroid" name="android_external_minigbm-wildroid" groups="wildroid" remote="Wildroid" revision="wildroid_a16" />
 
   <!-- HBM -->
   <project path="external/ash" name="android_external_ash" groups="wildroid" remote="Wildroid" />
