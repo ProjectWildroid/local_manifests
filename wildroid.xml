@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- HALs -->
-  <project path="external/minigbm-wildroid" name="android_external_minigbm-wildroid" groups="wildroid" remote="Wildroid" revision="wildroid_a16" />
-
   <!-- HBM -->
   <project path="external/ash" name="android_external_ash" groups="wildroid" remote="Wildroid" />
   <project path="external/hbm" name="android_external_hbm" groups="wildroid" remote="Wildroid" />
