@@ -7,8 +7,8 @@
   <project path="external/drm_hwcomposer-upstream" name="android_external_drm_hwcomposer-upstream" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="external/libdisplay-info-upstream" name="android_external_libdisplay-info-upstream" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="external/minigbm-upstream" name="android_external_minigbm-upstream" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
-  <project path="external/tinyhal" name="android_external_tinyhal" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" revision="lineage-23.0" />
-  <project path="hardware/intel/sensors-iio" name="android_hardware_intel_sensors-iio" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" revision="lineage-23.0" />
+  <project path="external/tinyhal" name="android_external_tinyhal" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
+  <project path="hardware/intel/sensors-iio" name="android_hardware_intel_sensors-iio" groups="wildroid,wildroid_dep_lineageos" remote="Wildroid-dep-LineageOS" />
   <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" groups="wildroid,wildroid_dep_lineageos,wildroid_dep_lineageos_default,wildroid_dep_mikuui_default" remote="Wildroid-dep-LineageOS" />
 
   <!-- Inline kernel build -->
