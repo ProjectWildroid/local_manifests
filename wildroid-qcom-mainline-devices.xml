@@ -9,4 +9,8 @@
   <!-- Xiaomi -->
   <project path="device/xiaomi/mi7150-mainline" name="android_device_xiaomi_mi7150-mainline" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
   <project path="device/xiaomi/mi89xx-mainline" name="android_device_xiaomi_mi89xx-mainline" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
+
+  <!-- Xiaomi SDM710 -->
+  <project path="device/xiaomi/mi710-mainline" name="android_device_xiaomi_mi710-mainline" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
+  <project path="device/xiaomi/pyxis_mainline" name="android_device_xiaomi_pyxis_mainline" groups="wildroid,wildroid_qcom_mainline_devices" remote="Wildroid-dep-LineageOS" />
 </manifest>
